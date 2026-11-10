@@ -1,7 +1,6 @@
 {
     "name": "Solarman",
-    "zip_release": true,
-    "filename": "solarman.zip",
+    "zip_release": false,
     "homeassistant": "2025.2.0",
     "persistent_directory": "inverter_definitions/custom"
 }
